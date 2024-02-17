@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sandip Kushwaha
-- 👀 I’m interested in Data Science, AI, Machine Learning
+- 👀 I’m interested  Software, Data Science, AI, Machine Learning
 - 🌱 I’m currently learning Software development.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
