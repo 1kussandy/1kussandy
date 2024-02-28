@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sandip Kushwaha
 - 👀 I’m interested  Software, Data Science, AI, Machine Learning
-- 🌱 I’m currently learning Software development.
+- 🌱 I’m currently working on multiples Software development Project myslef.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
